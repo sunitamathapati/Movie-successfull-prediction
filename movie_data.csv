@@ -1,0 +1,13 @@
+Budget,Genre,Cast_Popularity,Director_Rating,Marketing_Spend,Release_Season,Runtime,Status
+50,Action,8,7,20,Summer,150,Hit
+30,Comedy,6,6,10,Winter,120,Flop
+80,Action,9,8,30,Summer,160,Hit
+20,Drama,5,5,5,Winter,110,Flop
+100,Action,10,9,40,Summer,170,Hit
+40,Comedy,7,6,15,Festival,130,Hit
+60,Drama,6,7,18,Festival,140,Flop
+25,Drama,4,4,7,Winter,100,Flop
+90,Action,9,8,35,Summer,165,Hit
+35,Comedy,6,6,12,Festival,125,Flop
+70,Action,8,7,25,Summer,155,Hit
+45,Drama,5,5,9,Winter,115,Flop
